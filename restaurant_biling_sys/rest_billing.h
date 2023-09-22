@@ -32,6 +32,8 @@ typedef struct orders
 }
 orders;
 
+/******FUNCTIONS******/
+
 void generatebillheader(char name[50], char date[30]);
 void generatebillbody(char item[30], int qty, float price);
 void generatebillfooter(float total);

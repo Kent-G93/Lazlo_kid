@@ -6,6 +6,8 @@
 /**
  * main - entry point
  * Return: 0
+ * 
+ * Auth: Kent Gichuru
 */
 
 int main(void)

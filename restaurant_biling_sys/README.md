@@ -1,0 +1,1 @@
+This is a practise program for C programming that involves creating a billing system for a restaurant.
